@@ -1,4 +1,3 @@
-# rhcsa_rhce_study
+# Chef for RHCSA/RHCE Studying
 
-TODO: Enter the cookbook description here.
-
+I created this repo to manage my RHCSA and RHCE progress as I work towards my RHCSA and RHCE certifications.
